@@ -1,11 +1,11 @@
 numpy
 pandas
-scipy==1.7.1
+scipy
 scikit-learn
 nltk
 tensorflow
-keras=
+keras
 transformers
-flask=
+flask
 gunicorn
 
