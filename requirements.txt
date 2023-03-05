@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy==1.7.1
+scikit-learn
+nltk
+tensorflow
+keras=
+transformers
+flask=
+gunicorn
+
