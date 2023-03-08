@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+scikit-learn
+nltk
+tensorflow
+keras
+transformers
+flask
+gunicorn
+

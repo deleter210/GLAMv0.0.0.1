@@ -1,0 +1,37 @@
+/* Chat container */
+.chat-container {
+  border: 2px solid #dedede;
+  background-color: #f1f1f1;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px 0;
+  width: 50%;
+}
+
+/* User message */
+.user-message {
+  border-radius: 5px;
+  background-color: #04AA6D;
+  color: white;
+  padding: 10px;
+  margin: 10px 0;
+  width: 50%;
+  float: right;
+}
+
+/* Bot message */
+.bot-message {
+  border-radius: 5px;
+  background-color: #2196F3;
+  color: white;
+  padding: 10px;
+  margin: 10px 0;
+  width: 50%;
+}
+
+/* Clearfix to clear floats */
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
